@@ -17,7 +17,7 @@ The software operating environment is Windows 7.0 and the compiler platform is E
 DEMO
 ==========================================================================================================
 ****************************************************
- *  Copyright (c) 2017, Wang Ying, Liu Hao, YU Hai, ZHU Zhiliang.
+ *  Copyright (c) 2017, Wang Ying, Liu Hao, ZHU Zhiliang, YU Hai.
  *  E-mail: yuhai@126.com
  *  All rights reserved.
  *
